@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using CSharp_.NET.Concepts;
 
-namespace CSharp_.NET
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+namespace CursoCSharp {
+    class Program {
+        static void Main(string[] args) {
+            var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                {"Primeiro Programa - Fundamentos", FirstConcept.Exec},
+                {"Comentários - Fundamentos", Comments.Exec },
+            });
+
+            central.SelecionarEExecutar();
         }
     }
 }
