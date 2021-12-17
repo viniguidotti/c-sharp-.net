@@ -1,0 +1,14 @@
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.exe
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.deps.json
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.runtimeconfig.json
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.runtimeconfig.dev.json
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.dll
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\bin\Debug\netcoreapp3.1\CSharp-.NET.pdb
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.csproj.AssemblyReference.cache
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.AssemblyInfoInputs.cache
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.AssemblyInfo.cs
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.csproj.CoreCompileInputs.cache
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.dll
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.pdb
+C:\Users\vinim\Documents\Projetos\c-sharp-.net\CSharp-.NET\obj\Debug\netcoreapp3.1\CSharp-.NET.genruntimeconfig.cache
