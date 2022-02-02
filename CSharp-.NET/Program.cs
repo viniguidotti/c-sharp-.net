@@ -19,6 +19,7 @@ namespace CursoCSharp {
                 {"Operador Ternário - Fundamentos", OperadorTernario.Exec },
                 {"Switch - Fundamentos", Switch.Exec },
                 {"While - Fundamentos", While.Exec },
+                {"DoWhile - Fundamentos", DoWhile.Exec },
 
             });
 
